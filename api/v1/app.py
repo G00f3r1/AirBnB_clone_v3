@@ -1,4 +1,4 @@
-#!/usr/bin/pytthon3
+#!/usr/bin/python3
 """ Starts a flask application """
 from api.v1.views import app_views
 from flasgger import Swagger
